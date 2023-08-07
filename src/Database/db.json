@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "name": "Alan Walker",
+      "age": "20",
+      "gender": "Male",
+      "marks": "78",
+      "id": 1
+    },
+    {
+      "name": "Prithwijit Banerjee",
+      "age": "24",
+      "gender": "Male",
+      "marks": "78",
+      "id": 2
+    },
+    {
+      "name": "Selena Gomez",
+      "age": "36",
+      "gender": "Female",
+      "marks": "56",
+      "id": 3
+    },
+    {
+      "name": "Justin Bieber",
+      "age": "37",
+      "gender": "Male",
+      "marks": "67",
+      "id": 4
+    },
+    {
+      "name": "Fifth Harmony",
+      "age": "43",
+      "gender": "Female",
+      "marks": "88",
+      "id": 5
+    },
+    {
+      "name": "Charlie Puth",
+      "age": "38",
+      "gender": "Male",
+      "marks": "97",
+      "id": 6
+    }
+  ]
+}
